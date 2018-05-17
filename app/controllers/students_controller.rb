@@ -1,2 +1,3 @@
-StudentsController < ApplicationController 
+StudentsController < ApplicationController
+
 end 
